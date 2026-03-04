@@ -36,7 +36,7 @@ Manually editing 156,017 rows wasn't an option. Sending them all through a paid 
 
 | Before | After |
 |---|---|
-| U.S. Art Supply 23" x 26" Artist Sketch Tote Board - Lightweight Hardboard Drawing Board with Handle, Clip & Rubber Band for Art, Sketching, Travel | U.S. Art Supply 23" Sketch Tote Board |
+| U.S. Art Supply 23" x 26" Artist Sketch Tote Board - Lightweight Hardboard Drawing Board with Handle, Clip & Rubber Band for Art, Sketching, Travel | U.S. Art Supply 23" x 26" Sketch Tote Board |
 
 ---
 
